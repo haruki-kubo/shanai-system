@@ -1,0 +1,20 @@
+{
+  "rules": {
+    "field-name-mapping-snake-case": "off",
+    "model-name-grammatical-number": [
+      "error",
+      {
+        "style": "singular"
+      }
+    ],
+    "model-name-mapping-snake-case": "error",
+    "model-name-prefix": "off",
+    "require-field-index": "off",
+    "require-field-type": "off",
+    "forbid-required-ignored-field": "error",
+    "field-order": "off",
+    "require-default-empty-arrays": "off",
+    "forbid-field": "off",
+    "require-field": "off"
+  }
+}
