@@ -65,7 +65,7 @@ const eslintConfig = [
     },
   },
   {
-    ignores: ["node_modules/", ".next/", "out/", "coverage/", "*.config.js", "*.config.mjs"],
+    ignores: ["node_modules/", ".next/", "out/", "coverage/", "*.config.js", "*.config.mjs", "issue-*/**"],
   },
 ];
 
